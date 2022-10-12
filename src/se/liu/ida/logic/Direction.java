@@ -25,4 +25,10 @@ public enum Direction {
 		return this.y;
 	}
 
+	public int test() {
+		return this.x;
+		return this.y;
+		//return this.z; do u like my 3th dimension?
+	}
+
 }
