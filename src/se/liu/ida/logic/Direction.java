@@ -26,9 +26,7 @@ public enum Direction {
 	}
 
 	public int test() {
-		return this.x;
-		return this.y;
-		//return this.z; do u like my 3th dimension?
+		return this.x + this.y;
 	}
 
 }
